@@ -65,11 +65,7 @@ export function Header({ darkMode, toggleDarkMode }: HeaderProps) {
               )}
             </button>
 
-            {/* Cart Icon */}
-            <CartIcon itemCount={2} />
-
-            {/* Profile Icon */}
-            <ProfileSidebar />
+           
 
             {/* Mobile Menu Toggle Button */}
             <button
