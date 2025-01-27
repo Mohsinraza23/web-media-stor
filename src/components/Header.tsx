@@ -3,8 +3,7 @@
 import Link from "next/link"
 
 import { useState } from "react"
-import { CartIcon } from "../app/components/cart-icon"
-import { ProfileSidebar } from "../app/components/profile-sidebar"
+
 
 interface HeaderProps {
   darkMode: boolean;
